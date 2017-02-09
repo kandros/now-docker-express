@@ -1,0 +1,10 @@
+{
+  "name": "now-docker-express",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jaga santagostino github.com/kandros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
